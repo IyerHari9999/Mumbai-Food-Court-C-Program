@@ -1,0 +1,43 @@
+Hariharan
+Cake:	50	*	2
+Nachos:	100	*	1
+Total cost:200.000000
+
+kevin
+Pizza:	150	*	5
+Cake:	50	*	5
+Total cost:849.000000
+
+Samarth
+Cake:	50	*	10
+Total cost:350.000000
+
+Nigel
+Nachos:	100	*	5
+Pizza:	150	*	3
+Total cost:807.000000
+
+
+Ram
+Nachos:	100	*	3
+Cake:	50	*	8
+Total cost:535.000000
+
+Karan
+Pizza:	150	*	1
+Total cost:150.000000
+
+lakshman
+Cake:	50	*	15
+Nachos:	100	*	10
+Total cost:1225.000000
+
+Raghav
+Pizza:	150	*	2
+Total cost:300.000000
+
+Sakshi
+Cake:	50	*	1
+Pizza:	150	*	1
+Total cost:200.000000
+
